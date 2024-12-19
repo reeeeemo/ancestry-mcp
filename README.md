@@ -12,6 +12,8 @@
 
 Built on top of the [Model Context Protocol Python SDK](https://modelcontextprotocol.io)
 
+<a href="https://glama.ai/mcp/servers/pk5j4bp5nv"><img width="380" height="200" src="https://glama.ai/mcp/servers/pk5j4bp5nv/badge" alt="Ancestry MCP server" /></a>
+
 ## Overview
 
 Python server implementing Model Context Protocol (MCP) for interactibility with `.ged` files *(GEDCOM files, commonly seen on Ancestry.com)*
