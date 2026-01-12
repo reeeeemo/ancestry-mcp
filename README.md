@@ -1,3 +1,5 @@
+> This server is DEPRICATED - Used a 2024-11-26 snapshot of [MCP](https://github.com/modelcontextprotocol/python-sdk)
+
 # Ancestry MCP Server
 [![smithery badge](https://smithery.ai/badge/mcp-server-ancestry)](https://smithery.ai/server/mcp-server-ancestry)
 [![MIT licensed][mit-badge]][mit-url]
